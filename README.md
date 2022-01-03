@@ -1,7 +1,7 @@
 # SYSdump
 MSwindows batch script for live-forensic-acquisition
 
-
+    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                                                                                                                                                
                                                                            dddddddd                                                              
        SSSSSSSSSSSSSSS YYYYYYY       YYYYYYY   SSSSSSSSSSSSSSS             d::::::d                                                              
@@ -43,7 +43,7 @@ MSwindows batch script for live-forensic-acquisition
     		enough for the lay-person to understand and aids the forensic investigator's testimony in court to the tool's content
     		and its utility in parsing forensic artifacts.
     
-   +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
