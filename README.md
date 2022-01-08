@@ -2,30 +2,19 @@
 MSwindows batch script for live-forensic-acquisition
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                                                                                                                                               
-                                                                           dddddddd                                                              
-       SSSSSSSSSSSSSSS YYYYYYY       YYYYYYY   SSSSSSSSSSSSSSS             d::::::d                                                              
-     SS:::::::::::::::SY:::::Y       Y:::::Y SS:::::::::::::::S            d::::::d                                                              
-    S:::::SSSSSS::::::SY:::::Y       Y:::::YS:::::SSSSSS::::::S            d::::::d                                                              
-    S:::::S     SSSSSSSY::::::Y     Y::::::YS:::::S     SSSSSSS            d:::::d                                                               
-    S:::::S            YYY:::::Y   Y:::::YYYS:::::S                ddddddddd:::::d uuuuuu    uuuuuu     mmmmmmm    mmmmmmm   ppppp   ppppppppp   
-    S:::::S               Y:::::Y Y:::::Y   S:::::S              dd::::::::::::::d u::::u    u::::u   mm:::::::m  m:::::::mm p::::ppp:::::::::p  
-     S::::SSSS             Y:::::Y:::::Y     S::::SSSS          d::::::::::::::::d u::::u    u::::u  m::::::::::mm::::::::::mp:::::::::::::::::p 
-      SS::::::SSSSS         Y:::::::::Y       SS::::::SSSSS    d:::::::ddddd:::::d u::::u    u::::u  m::::::::::::::::::::::mpp::::::ppppp::::::p
-        SSS::::::::SS        Y:::::::Y          SSS::::::::SS  d::::::d    d:::::d u::::u    u::::u  m:::::mmm::::::mmm:::::m p:::::p     p:::::p
-           SSSSSS::::S        Y:::::Y              SSSSSS::::S d:::::d     d:::::d u::::u    u::::u  m::::m   m::::m   m::::m p:::::p     p:::::p
-                S:::::S       Y:::::Y                   S:::::Sd:::::d     d:::::d u::::u    u::::u  m::::m   m::::m   m::::m p:::::p     p:::::p
-                S:::::S       Y:::::Y                   S:::::Sd:::::d     d:::::d u:::::uuuu:::::u  m::::m   m::::m   m::::m p:::::p    p::::::p
-    SSSSSSS     S:::::S       Y:::::Y       SSSSSSS     S:::::Sd::::::ddddd::::::ddu:::::::::::::::uum::::m   m::::m   m::::m p:::::ppppp:::::::p
-    S::::::SSSSSS:::::S    YYYY:::::YYYY    S::::::SSSSSS:::::S d:::::::::::::::::d u:::::::::::::::um::::m   m::::m   m::::m p::::::::::::::::p 
-    S:::::::::::::::SS     Y:::::::::::Y    S:::::::::::::::SS   d:::::::::ddd::::d  uu::::::::uu:::um::::m   m::::m   m::::m p::::::::::::::pp  
-     SSSSSSSSSSSSSSS       YYYYYYYYYYYYY     SSSSSSSSSSSSSSS      ddddddddd   ddddd    uuuuuuuu  uuuummmmmm   mmmmmm   mmmmmm p::::::pppppppp    
-                                                                                                                              p:::::p            
-                                                                                                                              p:::::p            
-                                                                                                                             p:::::::p           
-                                                                                                                             p:::::::p           
-                                                                                                                             p:::::::p           
-                                                                                                                             ppppppppp           
+
+      /$$$$$$  /$$     /$$ /$$$$$$        /$$                                  
+     /$$__  $$|  $$   /$$//$$__  $$      | $$                                  
+    | $$  \__/ \  $$ /$$/| $$  \__/  /$$$$$$$ /$$   /$$ /$$$$$$/$$$$   /$$$$$$ 
+    |  $$$$$$   \  $$$$/ |  $$$$$$  /$$__  $$| $$  | $$| $$_  $$_  $$ /$$__  $$
+    \____  $$   \  $$/   \____  $$| $$  | $$| $$  | $$| $$ \ $$ \ $$| $$  \ $$
+    /$$  \ $$    | $$    /$$  \ $$| $$  | $$| $$  | $$| $$ | $$ | $$| $$  | $$
+    |  $$$$$$/    | $$   |  $$$$$$/|  $$$$$$$|  $$$$$$/| $$ | $$ | $$| $$$$$$$/
+    \______/     |__/    \______/  \_______/ \______/ |__/ |__/ |__/| $$____/ 
+                                                                    | $$      
+                                                                    | $$      
+                                                                    |__/      
+           
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
      
    shout out to: carlospolop  for the legion tool that SYSdump is based on		https://github.com/carlospolop/winPE
