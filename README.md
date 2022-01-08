@@ -1,7 +1,7 @@
 # SYSdump
 MSwindows batch script for live-forensic-acquisition
 
-    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                                                                                                                                                
                                                                            dddddddd                                                              
        SSSSSSSSSSSSSSS YYYYYYY       YYYYYYY   SSSSSSSSSSSSSSS             d::::::d                                                              
@@ -26,24 +26,22 @@ MSwindows batch script for live-forensic-acquisition
                                                                                                                              p:::::::p           
                                                                                                                              p:::::::p           
                                                                                                                              ppppppppp           
-
-    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-    
-      	tool author:  t0rt3rra    https://github.com/t0rt3rra
-    
-    	shout out to: carlospolop  for the legion tool that SYSdump is based on		https://github.com/carlospolop 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+     
+   shout out to: carlospolop  for the legion tool that SYSdump is based on		https://github.com/carlospolop/winPE
     		
-    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     
-    	about:
-    		SYSdump is intended to aid forensic acquisition for live windows systems by parsing some of the more common settings 
-    		and files on MSwindows systems using tools native to the windows command line.  as such, SYSdump will have a limited 
-    		footprint on the target OS (if run from USB or external drive) and can dump the results file (SYSDUMPoutput.txt) onto 
-    		an external drive or USB thus maintaining forensically-sound target acquisition.  Similarly, batch script is simple-
-    		enough for the lay-person to understand and aids the forensic investigator's testimony in court to the tool's content
-    		and its utility in parsing forensic artifacts.
+   about:
+   
+   SYSdump is intended to aid forensic acquisition for live windows systems by parsing some of the more common settings 
+   and files on MSwindows systems using tools native to the windows command line.  as such, SYSdump will have a limited 
+   footprint on the target OS (if run from USB or external drive) and can dump the results file (SYSDUMPoutput.txt) onto 
+   an external drive or USB thus maintaining forensically-sound target acquisition.  Similarly, batch script is simple-
+   enough for the lay-person to understand and aids the forensic investigator's testimony in court to the tool's content
+   and its utility in parsing forensic artifacts.
     
-    +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
